@@ -4,11 +4,10 @@ version: "v0.4"
 project:
   name: "Sharpness of the Martin–O'Bryant autoconvolution inequality"
   description: >-
-    For every real ε > 0, there are finitely many nonnegative real heights
-    p₀,…,p_d, at least one positive, such that the step function taking height
-    pⱼ on [j,j+1) and zero elsewhere has autoconvolution ratio greater than
-    1−ε. The ratio divides the squared L² norm by the product of the L¹ and
-    L∞ norms of the autoconvolution on the real line with Lebesgue measure.
+    The autoconvolution inequality of Martin and O’Bryant has sharp constant equal to 1. 
+    In other words, for every real ε > 0, there are finitely many nonnegative real heights 
+    p₀,…,p_d, at least one positive, such that the step function taking height pⱼ on [j,j+1) 
+    and zero elsewhere has the ratio (L² norm)^2 / (L¹ norm) (L∞ norm) greater than 1−ε.
   authors: ["Tonći Crmarić", "Vjekoslav Kovač", "Jelena Rupčić"]
   responsible_maintainers: ["Vjekoslav Kovač"]
   license: "Apache-2.0"
